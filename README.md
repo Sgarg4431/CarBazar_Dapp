@@ -2,7 +2,9 @@
 # Car Bazar
 
 This is a simple decenterlized application (Dapp) built on Goerli testnet in which a person
-could rent a car for a particular period of time, return it and check the amount need to be paid.
+could rent a car for a particular period of time, return it and check the amount need to be paid
+
+Owner cannot rent a car to himeself
 
 In this app person will not be able to rent a car which is already booked
 and will not be able to return someone else car, means if person tries
