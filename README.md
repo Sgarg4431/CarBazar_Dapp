@@ -52,4 +52,8 @@ The contract is manually tested using Remix IDE and Hardhat.
 - Interacting with MetaMask wallet using Ether.js
 
 
+## 🔗 Connect with me
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-garg-6232181b8/)
+
+
 
